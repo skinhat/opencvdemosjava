@@ -28,7 +28,7 @@
 	import org.opencv.core.MatOfPoint;
 
 
-	public class Main {
+	public class CornerHarris_Demo {
 
 
 
