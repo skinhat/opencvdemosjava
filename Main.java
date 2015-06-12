@@ -28,7 +28,7 @@
 	import org.opencv.core.MatOfPoint;
 
 
-	public class Main2 {
+	public class Main {
 
 
 
